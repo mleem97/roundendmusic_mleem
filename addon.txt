@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"			"End Round Music"
+	"version"		"2.1"
+	"up_date"		"28/08/14"
+	"author_name"		"SunRed (Original: Kurochi)"
+	"author_email"		"manuel@sunred.org"
+	"author_url"		"http://sunred.org/"
+	"info"			"Plays music at the end of a round. Also shows a 'Now Playing' box."
+	"override"		"0"
+}

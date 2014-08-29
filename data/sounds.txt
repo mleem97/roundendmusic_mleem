@@ -1,0 +1,8 @@
+-- Possibilities: INNOCENT, TRAITOR, TIMEOUT
+
+WST:AddSound(INNOCENT, "round/sound1.mp3", "Gledden", "We Can Win")
+WST:AddSound(INNOCENT, "round/sound2.mp3") -- box won't be shown for this one
+
+WST:AddSound(TRAITOR, "round/sound3.mp3", "Rammstein", "Du Hast")
+
+WST:AddSound(TIMEOUT, "round/sound4.mp3", "MC Hammer", "U Can't Touch This")
