@@ -1,9 +1,6 @@
-TTT End Round Music
+TTT End Round Music REWORK REWORK
 =======================
 This addon was originally designed by [Kurochi](http://steamcommunity.com/id/_kurochi).
-I am just going to add a few features which might be useful in this addon.
-
-Original addon in Steam Workshop: http://steamcommunity.com/sharedfiles/filedetails/?id=114582895
 
 The title already reveals that the plugin is designed for the Trouble in Terrorist Town Gamemode by Badking. Music (or sounds) will be played on every round end and it can be configured in a .txt file from which sounds it should be chosen one randomly on traitor or innocent win or timeout.
 
