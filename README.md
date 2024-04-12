@@ -6,8 +6,7 @@ The title already reveals that the plugin is designed for the Trouble in Terrori
 
 Configuration
 =======================
-Sounds can be configured in data/sounds.txt. Kurochi made a nice picture what should explain how the configuration works: http://updates.x.gg/config%20music.png.
-The configuration of the widget can be done in lua/autorun/client/cl_endroundsounds.lua.
+Sounds can be configured in data/sounds.txt. The configuration of the widget can be done in lua/autorun/client/cl_endroundsounds.lua.
 ```Lua
 WIDGET_FADESPEED = 2			-- Time to take for fading in and out, in seconds, cannot be zero.
 WIDGET_STAYTIME = 5				-- Time to keep widget displayed before fading out, in seconds
