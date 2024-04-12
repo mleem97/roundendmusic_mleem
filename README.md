@@ -4,6 +4,8 @@ This addon was originally designed by [Kurochi](http://steamcommunity.com/id/_ku
 
 The title already reveals that the plugin is designed for the Trouble in Terrorist Town Gamemode by Badking. Music (or sounds) will be played on every round end and it can be configured in a .txt file from which sounds it should be chosen one randomly on traitor or innocent win or timeout.
 
+It should work for the original and the second gamemode.
+
 Configuration
 =======================
 Sounds can be configured in data/sounds.txt. The configuration of the widget can be done in lua/autorun/client/cl_endroundsounds.lua.
